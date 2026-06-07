@@ -1,4 +1,4 @@
-# Portfólio v1 — Davi Ferrari (Janeiro 2025)
+# 1º Portfólio  — Davi Ferrari (Janeiro 2025)
 
 Primeira versão do portfólio pessoal, desenvolvida em janeiro de 2025.
 Substituído pela versão atual em [dev7.davi].
